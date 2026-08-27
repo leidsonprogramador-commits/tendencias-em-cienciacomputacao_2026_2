@@ -1,8 +1,8 @@
 Atividade Prática: Identificando a IA no Cotidiano
 1. Identificação
 
-Aluno: Leandro Alcântara Morais
- RGM: 41160291
+Aluno: Leidson Arthur Santana Almeida
+ RGM: 38222345
 
 2. Análise das Tecnologias
 📱 WhatsApp
