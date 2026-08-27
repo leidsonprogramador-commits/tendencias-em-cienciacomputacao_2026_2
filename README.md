@@ -90,6 +90,4 @@ Uma coletânea de materiais, planos de aula e atividades para a disciplina "Tend
 ## Licença
 - Especifique a licença adotada (por exemplo, CC-BY para materiais didáticos, MIT para templates de código). Se não definido, favor sugerir qual adotar no arquivo LICENSE.
 
-## Contato
-- Professor/responsável: [nome do docente] — email@example.edu (substituir)
-- Monitores: lista em /docs/monitores.md
+
