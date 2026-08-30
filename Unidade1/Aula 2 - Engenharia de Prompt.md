@@ -7,6 +7,8 @@ Integrantes:
 
 Leandro Alcântara Morais (RGM: 41160291)
 Leidson Arthur Santana Almeida (RGM: 38222345)
+Leandro Santos Duque da  Silva (RGM: 40456005)
+
 2. Problema escolhido
 
 Desenvolver o núcleo lógico de um software de organização de estudos. O desafio central é calcular as horas de estudo diárias necessárias.
